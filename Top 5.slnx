@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Top 5.AppHost/Top 5.AppHost.csproj" />
+  <Project Path="Top 5.Server/Top 5.Server.csproj" />
+</Solution>
